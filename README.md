@@ -21,8 +21,8 @@ That's it.
 
 # Can I trust this?
 
-Feel free to unzip `NoCapsLockDelay.app.zip` and open the file with the Automator application on MacOS to inspect the contents.
+Feel free to open `NoCapsLockDelay.app` with the Automator application on MacOS to inspect the contents.
 
 # Attention
 
-To work, this application needs to be added to Login Items.
+This application must be added to Login Items.
