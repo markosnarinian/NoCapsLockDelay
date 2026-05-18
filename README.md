@@ -4,10 +4,7 @@ MacOS Automator application that removes the caps lock toggle delay
 
 # Installation & Usage
 
-## Manual installation
-
-1. Clone the repository.
-2. Add `NoCapsLockDelay.app` to Login Items.
+Clone the repository, then add `NoCapsLockDelay.app` to Login Items.
 
 # How it works
 
