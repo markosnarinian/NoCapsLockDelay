@@ -12,5 +12,8 @@ This application executes the following shell command when launched:
 hidutil property --set '{"CapsLockDelayOverride":0}'
 ```
 
+# Can I trust this?
+You can unzip this and open the file with the Automator application on MacOS to inspect the contents.
+
 # Attention
 To work, this application needs to be added to Login Items.
